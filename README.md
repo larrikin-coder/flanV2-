@@ -99,3 +99,4 @@ packing = False
 device_map = {"":0}
 ```
 - Other variables values were chosen based on industry standards.
+- Dataset link for the llama2-7b trained dataset on huggingface: <a href="https://huggingface.co/datasets/larrikin7/shaurya-llama2-1k">https://huggingface.co/datasets/larrikin7/shaurya-llama2-1k</a>
